@@ -1,0 +1,101 @@
+{
+	"pattrstorage" : 	{
+		"name" : "granulatorsettings",
+		"slots" : 		{
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"function" : [  ],
+					"function[1]" : [  ],
+					"jsui" : [ 0.73494, 0.833333 ],
+					"number" : [ 441.0 ],
+					"number[10]" : [ 69 ],
+					"number[11]" : [ 0.0 ],
+					"number[12]" : [ 0.63 ],
+					"number[13]" : [ 0.0 ],
+					"number[14]" : [  ],
+					"number[15]" : [  ],
+					"number[16]" : [  ],
+					"number[17]" : [  ],
+					"number[18]" : [  ],
+					"number[19]" : [ 0.436 ],
+					"number[1]" : [ 14 ],
+					"number[20]" : [  ],
+					"number[21]" : [ 1 ],
+					"number[2]" : [ 1229.0 ],
+					"number[3]" : [ 215 ],
+					"number[4]" : [ 36 ],
+					"number[5]" : [ 50.0 ],
+					"number[6]" : [  ],
+					"number[7]" : [ 70 ],
+					"number[8]" : [ 96.0 ],
+					"number[9]" : [ 1300.0 ],
+					"textbutton[32]" : [ -1 ],
+					"textbutton[33]" : [ -1 ],
+					"textedit" : [ "prova1" ],
+					"textedit[1]" : [ "bells.wav" ],
+					"toggle" : [ 0 ],
+					"umenu" : [ 3 ],
+					"umenu[1]" : [ 4 ],
+					"umenu[2]" : [ 5 ],
+					"umenu[3]" : [ 2 ],
+					"umenu[4]" : [ 4 ],
+					"umenu[53]" : [ 1 ],
+					"umenu[5]" : [ 4 ],
+					"umenu[6]" : [ 9 ],
+					"umenu[7]" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"function" : [ 10000.0, 0.0, 1.0, 0.0, 0.0, 0, 454.545455, 0.120879, 0, "linear" ],
+					"function[1]" : [ 6097.0, 0.0, 6527.0, 0.0, 0.0, 0, 1545.454545, 6527.0, 0, 2508.409091, 5092.494505, 0, 3954.545455, 3801.43956, 0, "linear" ],
+					"jsui" : [ 0.945455, 0.642857 ],
+					"number" : [ 274.0 ],
+					"number[10]" : [ 100 ],
+					"number[11]" : [ 0.075 ],
+					"number[12]" : [ 0.86 ],
+					"number[13]" : [ 1.0 ],
+					"number[14]" : [ 2.4 ],
+					"number[15]" : [ 0.89 ],
+					"number[16]" : [ 1.73 ],
+					"number[17]" : [ 2212 ],
+					"number[18]" : [ 10000 ],
+					"number[19]" : [ 0.436 ],
+					"number[1]" : [ 11 ],
+					"number[20]" : [ 6097 ],
+					"number[21]" : [ 1 ],
+					"number[2]" : [ 71116.0 ],
+					"number[3]" : [ 18 ],
+					"number[4]" : [ 24 ],
+					"number[5]" : [ 22.799999 ],
+					"number[6]" : [ 0.406 ],
+					"number[7]" : [ 30 ],
+					"number[8]" : [ 96.0 ],
+					"number[9]" : [ 1297.0 ],
+					"textbutton[32]" : [ -1 ],
+					"textbutton[33]" : [ -1 ],
+					"textedit" : [ "live", "setup", 1 ],
+					"textedit[1]" : [ "macbeth_mstr_final.wav" ],
+					"toggle" : [ 127 ],
+					"umenu" : [ 1 ],
+					"umenu[1]" : [ 2 ],
+					"umenu[2]" : [ 7 ],
+					"umenu[3]" : [ 8 ],
+					"umenu[4]" : [ 4 ],
+					"umenu[53]" : [ 2 ],
+					"umenu[5]" : [ 8 ],
+					"umenu[6]" : [ 8 ],
+					"umenu[7]" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
